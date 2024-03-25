@@ -1,0 +1,57 @@
+/* 
+Color Palette
+
+Snow- #F9F4F5
+Thistle- #C8B8DB
+Violet- #70587C
+Black- #000000
+
+*/
+
+header {
+    background-color: #C8B8DB;
+    color: #70587C;
+    text-align: center;
+    padding: 2%;
+   
+}
+
+/* NAVIGATION */
+nav ul {
+    list-style-type: none;
+    display: block;
+    text-align: right;
+    position: relative;
+    
+    
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 2%;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #70587C;
+}
+
+/* BODY */
+body {
+    background-color: #F9F4F5;
+    text-align: center;
+    
+    
+}
+
+footer {
+    background-color: #C8B8DB;
+    color: #70587C;
+    text-align: center;
+    padding: 1%;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
